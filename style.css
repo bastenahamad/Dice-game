@@ -1,0 +1,23 @@
+body {
+    background-color:bisque;
+    text-align: center;
+    font-family: 'Kalam', cursive;
+    color: #884A39;
+}
+
+h1 {
+    font-size: 100px;
+    padding-top: 50px;
+    margin-bottom: 100px;
+}
+
+.player {
+    display: inline-block;
+    padding: 3%;
+}
+
+.btn {
+    margin-top: 100px;
+    border: 1px solid;
+    font-family: 'Space Mono', monospace;
+}
